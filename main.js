@@ -1,0 +1,1 @@
+console.log("Hello, Rick and Morty fans!");
